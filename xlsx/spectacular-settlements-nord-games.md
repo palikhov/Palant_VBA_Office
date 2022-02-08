@@ -1,5 +1,8 @@
 Version: 0.21
 
+
+# Status
+
 Trading Post [x]
 
 Village [x] with bugs
